@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SjJOftUTYF4=",
+  "dgSpecHash": "zUrT/HomnKI=",
   "success": true,
   "projectFilePath": "D:\\Cursos\\CSharp\\AMCOM\\Questao2\\Questao2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
